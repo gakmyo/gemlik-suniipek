@@ -1,2 +1,3 @@
-# gemlik-suniipek
-B.U.Ü. Gemlik Asım Kocabıyık Yerleşkesi Resmi Sitesi
+# Gemlik Suniipek Yerleşkesi
+B.U.Ü. Gemlik Asım Kocabıyık Yerleşkesi Resmi Web Sitesinin oluşturulduğu projedir.
+Bu projeye sizler de katılarak katkıda bulunabilirsiniz.
